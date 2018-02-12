@@ -1,0 +1,3 @@
+cd Projects/piano
+source venv/bin/activate
+python piano.py
